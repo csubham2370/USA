@@ -1,3 +1,4 @@
 # USA
 
 ## Very powerfull country.
+## Rank is 1
